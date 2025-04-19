@@ -1,4 +1,6 @@
-Chee Jun Han (U2430703J), Elston 
+## Members
+Chee Jun Han (U2430703J) 
+Leng Enjie Elston (U2430242C) 
 
 ## Life Expectancy Analysis with Machine Learning
 
