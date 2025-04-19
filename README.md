@@ -60,31 +60,14 @@ Visualization Techniques:
 
 
 
-##  Proposed Interventions
+## 🎯 Proposed Interventions
 
- Targeted Interventions to Improve Life Expectancy
-Based on our analysis and model findings, we identified four key focus areas where realistic interventions can lead to an increase in life expectancy. These are detailed below:
-
-Adult Mortality
-Recommended Actions:
-Increase investment in preventive healthcare, especially for individuals aged 15 to 60
-Enhance support for chronic disease management to reduce premature adult deaths
-
-Socioeconomic Factors (Schooling / Income Composition)
-Recommended Actions:
-Introduce education subsidies and financial support for secondary and tertiary education
-Raise minimum wages to improve income composition and overall quality of life
-
-Immunisation Coverage (Developing Countries)
-Recommended Actions:
-Expand access to healthcare and vaccination services, especially in rural and underserved areas
-Launch targeted public health campaigns to address vaccine misinformation and increase trust
-
-Youth Thinness (Developed Countries)
-Recommended Actions:
-Promote mental health awareness, particularly around body image and eating disorders
-Implement school-based programs for emotional regulation, coping skills, and early intervention
-
+| Focus Area | Target | Recommended Intervention |
+|------------|--------|---------------------------|
+| Adult Mortality | ↓ ~30 per 1000 | Preventive care, chronic disease support |
+| Socioeconomic Factors | ↑ Schooling/Income Composition | Education subsidies, wage increases |
+| Immunisation (Developing) | ↑ ~13% | Expand rural access, tackle vaccine myths |
+| Thinness (Developed) | ↓ ~0.5% | Youth mental health support and awareness |
 ##  What We Learned
 - How to use **XGBoost** and **Random Forest** for regression tasks
 - Feature importance analysis to drive insights
