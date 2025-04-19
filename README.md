@@ -60,7 +60,7 @@ Visualization Techniques:
 
 
 
-## 🎯 Proposed Interventions
+## Proposed Interventions
 
 | Focus Area | Target | Recommended Intervention |
 |------------|--------|---------------------------|
